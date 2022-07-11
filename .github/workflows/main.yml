@@ -13,8 +13,9 @@ jobs:
         with:
           flutter-version: '2.10.4'
       - run: flutter pub get
-      - run: flutter test
-      - run: flutter build apk --debug --split-per-abi
+      - run: flutter gen-l10n
+      - run: flutter pub run build_runner build --delete-conflicting-outputs
+      - run: flutter build appbundle --flavor develop -t lib/main_develop.dart
       - name: Create a Release APK
         uses: ncipollo/release-action@v1
         with:
