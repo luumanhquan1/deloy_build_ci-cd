@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "351864632613",
+    "project_id": "social-network-85e36",
+    "storage_bucket": "social-network-85e36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351864632613:android:8342833aa99d868fcc16cc",
+        "android_client_info": {
+          "package_name": "com.edsolabs.ccvc_mobile.develop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351864632613-7vovk9511gmu813bi4c4k97q9v7or20m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCeuvWUxCf6ugYhMxbD0tD9qqwS7sn5Ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351864632613-7vovk9511gmu813bi4c4k97q9v7or20m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

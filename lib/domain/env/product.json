@@ -1,0 +1,6 @@
+{
+  "type": "product",
+  "base_url_gate_way": "https://api-gateway-ccvc-uat.chinhquyendientu.vn",
+  "base_url_common": "https://api-common-ccvc-uat.chinhquyendientu.vn",
+  "base_url_CCVC": "https://api-ccvc-uat.chinhquyendientu.vn"
+}
